@@ -1,0 +1,16 @@
+[book]
+title = "Señorío en los Siete Montes"
+authors = ["Dr. Pablo Eduardo Cancino Marentes"]
+description = "Tercer tomo de la Serie REDIME. Tras sanar la imagen y formar la semejanza, el creyente maduro aprende a ejercer el señorío de Génesis 1:26 en siete esferas: familia, iglesia, nación, medios, finanzas, educación y cultura. No se trata de conquistar el mundo, sino de gobernar con fidelidad y humildad el territorio que Dios ya le entregó."
+language = "es"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/PabloeCancino/Libro_los_7_montes"
+edit-url-template = "https://github.com/PabloeCancino/Libro_los_7_montes/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 20
